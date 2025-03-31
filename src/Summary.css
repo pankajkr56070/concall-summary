@@ -1,0 +1,15 @@
+/* Summary.css */
+
+.section-heading {
+    font-size: 1.2em; /* Consistent heading size */
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  b, strong {
+    font-weight: bold; /* Consistent bold style */
+  }
+  
+  li {
+      margin-left: 1.5em; /* indent list items */
+  }
